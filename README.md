@@ -1,6 +1,6 @@
 # Optimization of Diagnostic Radiology Imaging Models for Edge Devices
 
-- This repository provides all the source code written for the paper **`ML for Health Equity: Optimizing Diagnostic Models for Edge Devices`**.
+- This repository provides all the source code written for the paper **`Optimizing Medical Image Classification Models for Edge Devices`**.
 
 ## Directory Information
 
