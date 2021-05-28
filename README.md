@@ -27,5 +27,5 @@
 - Contributors are encouraged to open github issue and send their merge requests.
 
 ## Contributors
-- `Areeba Abid`
-- `Priyanshu Sinha`
+- `Areeba Abid (Emory University School of Medicine)` 
+- `Priyanshu Sinha (Mentor Graphics India Pvt Ltd)`
